@@ -8,6 +8,7 @@ A collection of samples using the [Architecture Components](https://developer.an
 - ViewModels
 - LiveData
 - Paging
+- And more
 
 ### Samples
 
